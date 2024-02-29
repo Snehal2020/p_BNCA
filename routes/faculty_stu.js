@@ -3,7 +3,6 @@ require('../db')
 const cors=require('cors')
 const router = express.Router()   
 router.use(express.json())
-const abcModel=require('../models/abcModel')
 const { getSpecificfaculty,facultyProject_imageController,getSinglefaculty,facultyCreateController,getfacultyController,facultyPhotoController}=require('../controllers/facultyController')
 const formidable = require("express-formidable");
 // router.use(formidable());
