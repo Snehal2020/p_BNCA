@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.6946d5b2.css",
+    "main.js": "/static/js/main.f687e01e.js",
+    "static/js/592.599f76a2.chunk.js": "/static/js/592.599f76a2.chunk.js",
+    "static/media/pp.png": "/static/media/pp.53e9bf11e83e02b9892b.png",
+    "static/media/right.jpeg": "/static/media/right.e1a0452db07b1660e5f4.jpeg",
+    "static/media/left.jpeg": "/static/media/left.9bf5d6c55462d23cad04.jpeg",
+    "static/media/harpa_logo.png": "/static/media/harpa_logo.2f19366ef4668fd46267.png",
+    "static/media/logo1.png": "/static/media/logo1.568a309339fc24720677.png",
+    "index.html": "/index.html",
+    "main.6946d5b2.css.map": "/static/css/main.6946d5b2.css.map",
+    "main.f687e01e.js.map": "/static/js/main.f687e01e.js.map",
+    "592.599f76a2.chunk.js.map": "/static/js/592.599f76a2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6946d5b2.css",
+    "static/js/main.f687e01e.js"
+  ]
+}
