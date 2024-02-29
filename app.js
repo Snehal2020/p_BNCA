@@ -4,8 +4,6 @@ const app=express()
 app.use("/files",express.static("files"))
 require('dotenv').config() 
 require('./db');
-const Pdf=require('./models/pdf')
-const pdfSchema=mongoose.model('Pdf_s')
 const authRoute=(require('./routes/authRoute'))
 const departmentRoutes =require('./routes/department')
 const courseRoutes =require('./routes/course')
